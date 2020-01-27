@@ -565,12 +565,12 @@ img {
 /* :: 5.0 Sidebar Area CSS */
 
 .social-sidebar-area {
-    width: 100px;
-    height: 50%;
+    width: 60px;
+    height: 40%;
     background-color: transparent;
     position: fixed;
     bottom: 100px;
-    left: 0;
+    left: 50;
     z-index: 100;
     overflow: hidden;
 }
@@ -582,7 +582,7 @@ img {
     -webkit-transform: rotate(-90deg);
     transform: rotate(-90deg);
     position: absolute;
-    bottom: 270px;
+    bottom: 170px;
     left: -110px;
     z-index: 10;
     -webkit-box-pack: center;
@@ -807,7 +807,17 @@ img {
 
 /* :: 9.0 Footer Area CSS */
 
-.footer-area {
+.footer {
+    background-color: #1d1d1d;
+    position: fixed;
+    z-index: 100;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 95px;
+} 
+
+.footer-area1 {
     position: fixed;
     z-index: 100;
     background-color: #1d1d1d;

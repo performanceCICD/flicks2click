@@ -42,18 +42,18 @@
         background-color: transparent;
         border: none;
         border-radius: 6px;
-        width: 120px;
+        width: 60px;
         height: 35px;
         color: #fff;
         line-height: 28px;
-        margin: 38px 0;
+        margin: 35px 0;
         border: 2px solid #fff;
         font-weight: 400;
     }
     #studioMenu {
-        padding: 30px;
-        background-color: #1d1d1d;
-        z-index: 1002;
+        padding: 10px;
+        background-color: transparent;
+        z-index: 100;
     }
     .header-area .main-menu .nav-link {
         padding: 5px 15px;
@@ -125,10 +125,10 @@
     }
     .navbar-toggler {
         padding: 0;
-        font-size: 16px;
+        font-size: 15px;
         background-color: transparent;
         border-radius: 6px;
-        width: 90px;
+        width: 40px;
         height: 30px;
         color: #fff;
         line-height: 28px;
@@ -137,9 +137,9 @@
         font-weight: 400;
     }
     #studioMenu {
-        padding: 20px;
-        background-color: #1d1d1d;
-        z-index: 1002;
+        padding: 10px;
+        background-color: transparent;
+        z-index: 100;
     }
     .header-area .main-menu .nav-link {
         padding: 5px 15px;
