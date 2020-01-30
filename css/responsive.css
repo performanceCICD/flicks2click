@@ -85,14 +85,14 @@
         margin-right: 10px;
     }
     .slide-text {
-        margin-left: 120px;
-        margin-top: -50px;
+        margin-left: 40px;
+        margin-top: 400px;
     }
     .carousel-indicators li {
         height: 50px;
     }
     .slide-text span {
-        font-size: 60px;
+        font-size: 40px;
     }
     .gallery_area {
         height: calc(100% - 380px);
@@ -187,8 +187,8 @@
     }
     .slide-text {
         padding: 15px 15px 10px;
-        margin-left: 65px;
-        margin-top: -40px;
+        margin-left: 40px;
+        margin-top: 400px;
     }
     .slide-text span {
         font-size: 24px;
